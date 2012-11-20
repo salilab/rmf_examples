@@ -1,0 +1,1 @@
+a 5000 ns simulation of npc, it loads in chimera (Nov 20) and the hierarchy is loaded, but nothing shows
